@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Coding Platform 
+## 🌐 Programming Profile 
 <p align="center">
 
   <a href="https://codolio.com/profile/Yesh">
