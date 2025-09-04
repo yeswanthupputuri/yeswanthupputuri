@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Yeswanth Uppu</h1>
-<h3 align="center">WebGUI Developer Intern @ Nokia | Passionate about Software & Automation</h3>
+<h3 align="center">Web Developer Intern @ Nokia</h3>
 
 ---
 
@@ -13,20 +13,21 @@
 
 ### 💼 Organization & Department
 - 📍 Working at **Nokia**  
-- 🖥️ Department: **WebGUI Development (Internship)**  
+- 🖥️ Department: **Web Development Intern**  
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Coding Platform 
+<p align="center">
 
-<p align="left">
-  <a href="https://github.com/yeswanthupputuri" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://codolio.com/profile/Yesh">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48" height="48" alt="Codolio" />
   </a>
-  <a href="https://codolio.com/u/yeswanthupputuri" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-1f425f?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <a href="https://leetcode.com/u/Yeswanthupputuri/">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
+
 
 ---
 
@@ -59,12 +60,4 @@
 
 ---
 
-### 🚀 Featured Projects  
-
-- 🔹 [My GitHub Repositories](https://github.com/yeswanthupputuri?tab=repositories)  
-- 🔹 [Codolio Profile](https://codolio.com/u/yeswanthupputuri)  
-
----
-
-✨ *Thanks for stopping by! Let's build something amazing together.* 🚀
 
