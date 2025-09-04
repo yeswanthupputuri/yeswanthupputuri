@@ -60,6 +60,21 @@
 
 ---
 
+### 📂 My Projects
+<p align="center">
+  <a href="https://github.com/yeswanthupputuri?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthupputuri&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Pinned Repos (auto updating) -->
+  <a href="https://github.com/yeswanthupputuri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yeswanthupputuri&repo=YOUR-REPO-1&theme=radical" /></a>
+  <a href="https://github.com/yeswanthupputuri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yeswanthupputuri&repo=YOUR-REPO-2&theme=radical" /></a>
+</p>
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yeswanth-upputuri">
