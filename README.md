@@ -4,13 +4,6 @@
 
 ---
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=1ABC9C&width=600&lines=Software+Developer;WebGUI+%7C+Automation+Testing;Python+%7C+C%2B%2B+%7C+JavaScript;Always+learning+new+technologies..."/>
-</p>
-
----
-
 ### 💼 Organization & Department
 - 📍 Working at **Nokia**  
 - 🖥️ Department: **Web Development Intern**  
@@ -24,7 +17,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48" height="48" alt="Codolio" />
   </a>
   <a href="https://leetcode.com/u/Yeswanthupputuri/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode" />
   </a>
 </p>
 
