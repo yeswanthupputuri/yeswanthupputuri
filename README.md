@@ -6,7 +6,7 @@
 
 ### 💼 Organization & Department
 - 📍 Working at **Nokia**  
-- 🖥️ Department: **Web Development Intern**  
+- 🖥️ Department: **SDE Intern**  
 
 ---
 
