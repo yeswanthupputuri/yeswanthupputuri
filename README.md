@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Yeswanth Upputuri</h1>
-<h3 align="center">Web Developer Intern @ Nokia</h3>
+<h3 align="center">SDE Intern @ Nokia</h3>
 
 ---
 
