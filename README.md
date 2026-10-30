@@ -4,7 +4,7 @@
 
 
 ## 🌐 Programming Profile 
-<p align="center">
+<p>
 
   <a href="https://codolio.com/profile/Yesh">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="48" height="48" alt="Codolio" />
@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,react,html,css,postgres,mongodb,redis,firebase,docker,git,github,mysql,langchain,langgraph,linux,mockoon" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,react,html,css,postgres,mongodb,redis,firebase,docker,git,github,mysql,linux,mockoon" />
 </p>
 
 ---
