@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yeswanth Upputuri</h1>
 <h3 align="center">Ex - SDE Intern @ Nokia</h3>
 
----
 
 ## 🌐 Programming Profile 
 <p align="center">
