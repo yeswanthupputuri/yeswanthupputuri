@@ -28,12 +28,7 @@
 ### 📊 GitHub Stats & Contributions  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthupputuri&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthupputuri&theme=tokyonight" alt="streak" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeswanthupputuri&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
