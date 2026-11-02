@@ -3,7 +3,7 @@
 <h3 align="center">Ex - SDE Intern @ Nokia</h3>
 
 
-#🌐 Programming Profile 
+🌐 Programming Profile 
 <p>
 
   <a href="https://codolio.com/profile/Yesh">
@@ -15,20 +15,16 @@
 </p>
 
 
----
-
-### 🛠️ Tech Stack  
+ 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,django,fastapi,react,html,postgres,mongodb,redis,firebase,docker,git,mysql,linux,mockoon" />
 </p>
 
----
 
-### 📊 GitHub Stats & Contributions  
+📊 GitHub Stats & Contributions  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthupputuri&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
----
