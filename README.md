@@ -3,7 +3,7 @@
 <h3 align="center">Ex - SDE Intern @ Nokia</h3>
 
 
-## 🌐 Programming Profile 
+#🌐 Programming Profile 
 <p>
 
   <a href="https://codolio.com/profile/Yesh">
